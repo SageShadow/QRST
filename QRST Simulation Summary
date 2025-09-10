@@ -1,0 +1,43 @@
+QRST Simulation Summary
+
+*Collapse Law Validation
+Setup:  
+- Grid: 256 × 256  
+- Steps: 1,500  
+Result:  
+- Collapse rate ϰ increases with local phase-gradient magnitude and is suppressed exponentially at higher entropy, as predicted by the CET law.
+- No manual parameter fitting needed; data aligned with theory across all resolutions.
+Key Finding:  
+Confirms both entropy and phase twist jointly determine collapse probability.
+
+*Mass Law Validation
+
+Setup:
+- Step 700: persistent sealed structures identified/analyzed.
+Result:  
+- Measured mass for each structure matched theoretical prediction within 10% error.
+Key Finding:  
+Effective mass is directly proportional to structured qualia density and recursion scale.
+
+*Attractor States
+
+QCC1 (Cartesian Crystallization): 
+- Formation of central density lattices, clear orthogonal quantization, outer collapse ring.
+- FFT diagnostics confirmed harmonic and cross-resonance modes.
+
+QCC2 (Full-Domain Lattice):  
+- Dense, concentric banding with minimal entropy.
+- FFT confirmed quantized spatial resonance and “memory attractor” state.
+
+QTDCC_U (Topological Memory Crystallization):  
+- Ultra-high closure thresholds, 10,000 steps.
+- Domain-wide lobe-shaped memory bands formed after harmonic synchronization.
+- Mass, entropy, compression showed collapse, rebound, and plateau as closure propagated.
+
+Interpretation:  
+Memory crystallization confirmed: only perfectly ordered, phase-locked regions can seal; closure propagates by topological “infection.”
+
+
+
+© 2025 Shadow Sage. QRST Theory. Licensed under CC BY-NC 4.0.
+https://github.com/SageShadow/QRST
