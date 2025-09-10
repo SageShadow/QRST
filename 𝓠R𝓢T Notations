@@ -1,0 +1,78 @@
+𝓠R𝓢T Notations
+
+Notation: Label   Meaning/Scope
+
+ω:   Angular frequency Frequency of recursion angular “radians per second”
+
+Æ:   Collapse amplitude pre factor Exponential amplitude pre factor in collapse laws. Sets the max collapse strength.
+
+ϰ:   Collapse rate coefficient General decay likelihood:  ϰ is a ratio, not a fixed number
+
+Ɣ:   Coupling Coupling constant; modulates interactions, collapse, or feedback
+
+α_𝓢:   Diffusion mobility Controls linear spreading (mobility)
+
+𝓶_eft:   Effective inertial mass Proportional to density and λ^2
+
+𝓢:   Entropy Entropy; disorder or randomness in the qualia field
+
+𝓢_ϰ_rte:   Entropy collapse rate Entropy collapse rate; rate of entropy-induced field collapse
+
+∇:   Gradient Gradual change
+
+∇ϑ_fld :   Gradient field phase Gradient of phase field; spatial rate of change of field phase
+
+i:   Index Index; integer counter or label in sums, series, or arrays
+
+ʪ:   Loss coefficient General dissipation rate (Loss)
+
+Ṁ:   Möbius Standard Möbius topology, single phase inversion per cycle. Used for reference, but not structurally unique to QRST.
+
+ln:   Natural logarithm Natural logarithm; log base e (mathematical function)
+
+β_𝓢:   Nonlinear aggregation Decay constant in clarity evolution
+
+∂/∂t:   Partial derivative Partial differentiation with respect to time
+
+ϰ_𝓺:   Qualia collapse rate Collapse rate coefficient for (𝓺). Governs the intrinsic rate at which qualia patterns collapse due to entropy, clarity, and internal phase gradients. 
+
+𝓺(x, t):   Qualia density field Base qualia field. All recursion acts within this field. Defines how much qualia is present per unit volume. Local
+
+∇𝓺(x, t):   Qualia Gradient The change or slope of qualia density across space. 
+
+ĝ (x,t):   Qualia gravity The field equivalent of ‘gravity’ for qualia bends the stream, driving sealed recursion and influences ray trajectory. Induced by ∇𝓺
+
+Ξ:   Qualia mass constant The universal proportionality constant relating bits to mass in the QRST framework.
+
+σ_𝓢(x, t):   Qualia Spatial Clarity This is the local inverse entropy, clarity per location, used in almost every collapse law.
+
+Ψ(x,t):   Qualia Stream Amplitude This is the Global amplitude, what moves, collapses, locks, and sustains. (Complex) Amplitude of recursive structure in 𝓺
+
+Ʀ:   Recursion depth The count of recursive nesting or levels within a domain or loop.
+
+δ:   Recursion frequency Frequency linear “cycles per second”
+
+ϑ:   Recursion phase angle Local phase orientation of a recursion or loop; advances with time or traversal. Used for synchronization and collapse targeting.
+
+𝓺_clo(x,t):   Sealed Internal Lock Region where recursion flux = 0. Marks a zone that will no longer interact with external recursion, defines true sealed loops.
+
+𝓴:   Spatial wavenumber Controls lobe count/symmetry
+
+𝓺_str(x, t):   Structured qualia density Portion of 𝓺(x, t) that has acquired recursive structure. Extracted from Ψ.
+
+Ĝ:   Ti Diĝir Sets the topological class for non-orientable recursion in QRST. All rays or streams passing through Ṁ undergo phase inversion and topological memory locking.
+
+λ:   Wavelength Wavelength; spatial period of oscillatory field
+
+𝔀:   Weighting Weighting; weighting factor or filter in sums or transforms
+
+Notation Reference
+
+For complete definitions and all symbol explanations, refer to this file or your project's README.
+
+
+For the main theory and simulation results, see: [QRST_Theory.md](QRST_Theory.md)  
+[QRST_Simulation_Summary.md](QRST_Simulation_Summary.md)
+
+© 2025 Shadow Sage. QRST Theory. Licensed under CC BY-NC 4.0.
+https://github.com/SageShadow/QRST
